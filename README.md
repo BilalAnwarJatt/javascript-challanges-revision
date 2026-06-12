@@ -1,2 +1,2 @@
-# Javscript challanges 
+# Javscript challanges .
 
